@@ -1,0 +1,10 @@
+E:\Pasta computador Sergio Conti\Assuntos Sergio Conti\ProjetosCSharp\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+E:\Pasta computador Sergio Conti\Assuntos Sergio Conti\ProjetosCSharp\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+E:\Pasta computador Sergio Conti\Assuntos Sergio Conti\ProjetosCSharp\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+E:\Pasta computador Sergio Conti\Assuntos Sergio Conti\ProjetosCSharp\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+E:\Pasta computador Sergio Conti\Assuntos Sergio Conti\ProjetosCSharp\ChatServer\ChatServer\obj\Debug\ChatServer.Form1.resources
+E:\Pasta computador Sergio Conti\Assuntos Sergio Conti\ProjetosCSharp\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+E:\Pasta computador Sergio Conti\Assuntos Sergio Conti\ProjetosCSharp\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+E:\Pasta computador Sergio Conti\Assuntos Sergio Conti\ProjetosCSharp\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+E:\Pasta computador Sergio Conti\Assuntos Sergio Conti\ProjetosCSharp\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+E:\Pasta computador Sergio Conti\Assuntos Sergio Conti\ProjetosCSharp\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
